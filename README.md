@@ -5,7 +5,7 @@
 </div>
 
 
-Infinity X
+Infinity X GSI
 ------------------
 
 
